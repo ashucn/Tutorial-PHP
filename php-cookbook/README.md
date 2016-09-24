@@ -1,4 +1,4 @@
-#PHP经典实例 PHP Cookbook
+#PHP经典实例 (PHP Cookbook) 第三版
 ###David Sklar & Adamant Trachetenberg   
 
 ----  
