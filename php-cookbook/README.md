@@ -1,5 +1,5 @@
 #PHP经典实例 PHP Cookbook
-DavidS考拉绒& Adamant Trachetenberg
+David Sklar & Adamant Trachetenberg
 
 1. Strings. . . . . 1  
 1.1 Accessing Substrings 5  
@@ -21,14 +21,12 @@ DavidS考拉绒& Adamant Trachetenberg
 1.17 Storing Binary Data in Strings 28  
 1.18 Program: Downloadable CSV File 31  
   
-````  
-
-2. Numbers. . . . . 35
-2.1 Checking Whether a Variable Contains a Valid Number 36
-2.2 Comparing Floating-Point Numbers 37
-2.3 Rounding Floating-Point Numbers 38
-2.4 Operating on a Series of Integers 40
-2.5 Generating Random Numbers Within a Range 42
-2.6 Generating Predictable Random Numbers 43
   
-````
+2. Numbers. . . . . 35  
+2.1 Checking Whether a Variable Contains a Valid Number 36  
+2.2 Comparing Floating-Point Numbers 37  
+2.3 Rounding Floating-Point Numbers 38  
+2.4 Operating on a Series of Integers 40  
+2.5 Generating Random Numbers Within a Range 42  
+2.6 Generating Predictable Random Numbers 43  
+  
