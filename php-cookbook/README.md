@@ -1,5 +1,7 @@
 #PHP经典实例 PHP Cookbook
-David Sklar & Adamant Trachetenberg
+###David Sklar & Adamant Trachetenberg   
+
+----  
 
 1. Strings. . . . . 1  
 1.1 Accessing Substrings 5  
