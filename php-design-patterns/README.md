@@ -1,7 +1,10 @@
   
   
+##Part I. Easing into the Fundamentals of Design Patterns  
   
-##1. PHP and Object-Oriented Programming. . . . . . . . 5  
+----  
+  
+###1. PHP and Object-Oriented Programming. . . . . . . . 5  
   
 Entering into Intermediate and Advanced Programming 5  
 Why Object-Oriented Programming? 6  
