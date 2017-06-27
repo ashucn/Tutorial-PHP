@@ -4,7 +4,7 @@
   
 ----  
   
-###1. PHP and Object-Oriented Programming. . . . . . . . 5  
+### 1. PHP and Object-Oriented Programming. . . . . . . . 5  
   
 Entering into Intermediate and Advanced Programming 5  
 Why Object-Oriented Programming? 6  
@@ -22,7 +22,7 @@ Sequential Programming 14
 Procedural Programming 15  
 Pay Me Now or Pay Me Later 16  
   
-###2. Basic Concepts in OOP. . . . . . . 19  
+### 2. Basic Concepts in OOP. . . . . . . 19  
   
 Abstraction 19  
 Abstract Classes 20  
@@ -41,7 +41,7 @@ One Name with Many Implementations 38
 Built-In Polymorphism in Design Patterns 39  
 Easy Does It 39  
   
-###3. Basic Design Pattern Concepts. . . . . . . . 41  
+### 3. Basic Design Pattern Concepts. . . . . . . . 41  
   
 The MVC Loosens and Refocuses Programming 41  
 Basic Principles of Design Patterns 43  
@@ -58,7 +58,7 @@ What Causes Redesign? 55
 What Varies? 56  
 What Is the Difference Between Design Patterns and Frameworks? 57  
   
-###4. Using UMLs with Design Patterns. . . . . 59  
+### 4. Using UMLs with Design Patterns. . . . . 59  
   
 Why Unified Modeling Language (UML)? 59  
 Class Diagrams 60  
@@ -76,7 +76,7 @@ Tools for UMLs 75
   
 ##Part II. Creational Design Patterns  
   
-###5. Factory Method Design Pattern. . . . . . . 79  
+### 5. Factory Method Design Pattern. . . . . . . 79  
   
 What Is the Factory Method Pattern? 79  
 When to Use the Factory Method 80  
@@ -97,7 +97,7 @@ Helper Classes 94
 File Diagram 96  
 Product Changes: Leave the Interface Alone! 96  
   
-###6. Prototype Design Pattern. . . . 99  
+### 6. Prototype Design Pattern. . . . 99  
   
 What Is the Prototype Design Pattern? 99  
 When to Use the Prototype Pattern 100  
@@ -116,7 +116,7 @@ Dynamic Object Instantiation 117
   
 ##Part III. Structural Design Patterns  
   
-###7. The Adapter Pattern. . . . . . . 123  
+### 7. The Adapter Pattern. . . . . . . 123  
   
 What Is the Adapter Pattern? 123  
 When to Use the Adapter Pattern 125  
@@ -126,7 +126,7 @@ The Adapter Pattern Using Composition 131
 From Desktop to Mobile 131  
 Adapters and Change 140  
   
-###8. Decorator Design Pattern. . . 141  
+### 8. Decorator Design Pattern. . . 141  
   
 What Is the Decorator Pattern? 141  
 When to Use the Decorator Pattern 142  
@@ -150,7 +150,7 @@ From a Variable Name to an Object Instance 164
 Adding a Decoration 165  
 Part IV. Behavioral Design Patterns  
   
-###9. The Template Method Pattern. . . . . . . 169  
+### 9. The Template Method Pattern. . . . . . . 169  
   
 What Is the Template Method Pattern? 169  
 When to Use the Template Method 170  
@@ -169,7 +169,7 @@ Implementing the Hook 185
 The Client and Tripping the Hook 185  
 The Small and Mighty Template Method 187  
   
-###10. The State Design Pattern. . . 189  
+### 10. The State Design Pattern. . . 189  
   
 What Is the State Pattern? 189  
 When to Use the State Pattern? 190  
@@ -192,7 +192,7 @@ The Client Picks a Path 215
 The State Pattern and PHP 218  
 Part V. MySQL and PHP Design Patterns  
   
-###11. A Universal Class for Connections and a Proxy Pattern for Security. . . . . . . . 221  
+### 11. A Universal Class for Connections and a Proxy Pattern for Security. . . . . . . . 221  
   
 A Simple Interface and Class for MySQL 221  
 The Pregnant Interface 222  
@@ -204,7 +204,7 @@ Setting Up Login Registration 226
 Implementing the Login Proxy 230  
 The Proxy and Real-World Security 237  
   
-###12. The Flexibility of the Strategy Design Pattern. . 239  
+### 12. The Flexibility of the Strategy Design Pattern. . 239  
   
 Encapsulating Algorithms 239  
 Differentiating the Strategy from the State Design Pattern 240  
@@ -224,7 +224,7 @@ The Minor but Major Change in Context Class 262
 The Concrete Strategies 263  
 The Flexible Strategy Pattern 269  
   
-###13. The Chain of Responsibility Design Pattern. . . . 271  
+### 13. The Chain of Responsibility Design Pattern. . . . 271  
   
 Passing the Buck 271  
 The Chain of Responsibility in a MySQL Help Desk 273  
@@ -235,7 +235,7 @@ The Chain of Responsibility and Date-Driven Requests 285
 Factory Method Finishes Job 290  
 Ease of Update 295  
   
-###14. Building a Multidevice CMS with the Observer Pattern. . 297  
+### 14. Building a Multidevice CMS with the Observer Pattern. . 297  
   
 Built-In Observer Interfaces 297  
 When to Use the Observer Pattern 298  

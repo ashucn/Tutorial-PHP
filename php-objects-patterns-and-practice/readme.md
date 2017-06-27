@@ -1,5 +1,10 @@
-# Part I: Objects  1  
-## Chapter 1: PHP: Design and Management  3  
+# PHP Objects, Patterns, and Practice (5e)   
+![PHP Objects, Patterns, and Practice (5e) ](http://ebook-dl.com/pictures/books/php-objects-patterns-and-practice-matt-zandstra(www.ebook-dl.com)_Large.jpg)   
+----  
+
+# Part I: Objects  1 
+
+## Chapter 1: PHP: Design and Management  3 (省略)    
 ### The Problem 3  
 ### PHP and Other Languages 4  
 ### About This Book 6  
@@ -7,7 +12,6 @@
 ### Summary 8  
   
 ----    
-  
 ## Chapter 2: PHP and Objects  9  
 ### 2.1 The Accidental Success of PHP Objects 9  
 	In the Beginning: PHP/FI 9  
@@ -19,7 +23,7 @@
 ### 2.3 Summary 13  
   
 ----    
-  
+（star here...）   
 ## Chapter 3: Object Basics  15  
 ### Classes and Objects 15  
 	A First Class 15  
