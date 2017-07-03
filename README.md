@@ -18,4 +18,8 @@ php -S localhost:8000 -c app/config/php.ini
 
 Tip
 It’s a good idea to keep the custom INI file beneath the application’s root directory and, optionally, version-control the INI file if it should be shared with other developers on your
-team.
+team.  
+
+资源：   
+
+[laravel-china](https://laravel-china.org/)  
