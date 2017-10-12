@@ -8,7 +8,7 @@
 ### The Problem 3  
 ### PHP and Other Languages 4  
 ### About This Book 6  
-### What’s New in the Fifth Edition7  
+### What’s New in the Fifth Edition 7  
 ### Summary 8  
   
 ----    
